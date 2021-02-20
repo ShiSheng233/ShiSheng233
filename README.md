@@ -1,14 +1,16 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ShiSheng233&show_icons=true&icon_color=39c5bb&text_color=24292e&bg_color=ffffff&title_color=39c5bb&hide_title=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ShiSheng233&show_icons=true&count_private=true&icon_color=FB7299&title_color=FB7299" />
   
 #### Something About Me
 
 A senior high school student.
 
-I'm very vegetable.
+~~I'm **very vegetable**.~~
 
-Marcohard's Fan.
+~~Marcohard~~ Microsoft's Fan.
 
-Now I'm interested in .NET development now.
+I'm working on .NET development now.
+
+Now, I'm learning Golang & Kotlin.
 
 #### Something I Can Do
 
@@ -16,6 +18,8 @@ Now I'm interested in .NET development now.
 
 #### How to Find Me
 
-Blog: <https://shisheng.linesoft.top>  
+Blog: <https://blog.shisheng.icu>
+
+Email: [ohayou@shisheng.icu](mailto:ohayou@shisheng.icu)
 
 Twitter: @shisheng00
