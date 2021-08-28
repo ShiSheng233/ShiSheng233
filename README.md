@@ -15,14 +15,16 @@
 
 ### Already learned to use
 
-![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
-![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 
+### Unskilled
+![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
+![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=fff)
+
 ### Learning
 
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=fff)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
