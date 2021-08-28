@@ -36,7 +36,7 @@
 [![Telegram Channel](https://img.shields.io/badge/-t.me/shisheng_no_jibunnihanashikakeru-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/shisheng_no_jibunnihanashikakeru)
 [![E-Mail](https://img.shields.io/badge/-ohayou@shisheng.icu-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:ohayou@shisheng.icu)
 
-## 💻 Working environment
+## 💾 Working environment
 ![Windows 10](https://img.shields.io/badge/Windows%2010%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
 ![Pop!_OS](https://img.shields.io/badge/Pop_!OS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
