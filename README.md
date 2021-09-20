@@ -2,7 +2,7 @@
   
 # ShiSheng
 
-## Hi there 👋
+## 👋 Hi there
 💬 a.k.a. 莳昇
 
 - A cat
