@@ -39,9 +39,9 @@
 ## 💾 Working environment
 ![Windows 10](https://img.shields.io/badge/Windows%2010%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
-![Pop!_OS](https://img.shields.io/badge/Pop_!OS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
-![Android 12 Beta](https://img.shields.io/badge/Android%2012%20Beta-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Wear OS](https://img.shields.io/badge/Wear%20OS%20-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
 
 ## 📱 Devices in use
