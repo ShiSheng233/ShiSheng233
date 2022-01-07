@@ -37,7 +37,7 @@
 [![E-Mail](https://img.shields.io/badge/-ohayou@shisheng.icu-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:ohayou@shisheng.icu)
 
 ## 💾 Working environment
-![Windows 10](https://img.shields.io/badge/Windows%2010%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
