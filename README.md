@@ -29,13 +29,6 @@
 ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 
-## 📫 Get in touch
-
-[![Twitter](https://img.shields.io/twitter/follow/shisheng00?color=1ca0f1&label=%40shisheng00&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/shisheng00)
-[![Personal Blog](https://img.shields.io/badge/-https://blog.shisheng.icu/-4d4d4d?style=flat-square&logo=Bloglovin&logoColor=fff)](https://blog.shisheng.icu)
-[![Telegram Channel](https://img.shields.io/badge/-t.me/shisheng_no_jibunnihanashikakeru-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/shisheng_no_jibunnihanashikakeru)
-[![E-Mail](https://img.shields.io/badge/-ohayou@shisheng.icu-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:ohayou@shisheng.icu)
-
 ## 💾 Working environment
 ![Windows 11](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
