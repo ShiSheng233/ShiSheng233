@@ -7,7 +7,7 @@
 
 - zh-CN / en-US / ~~ja-JP~~
 - Chinese
-- Programmer / Developer / Dreamer
+- Programmer / Photographer / Developer / Dreamer
 - Also a *bad* Gamer
 
 ## 💻 Programming Languages
@@ -42,7 +42,7 @@
 ## 📱 Devices in use
 
 ![Apple iPhone 14 Pro](https://img.shields.io/badge/Apple%20iPhone%2014%20Pro-000000?style=flat-square&logo=apple&logoColor=ffffff)
-![Apple iPad mini 6](https://img.shields.io/badge/Apple%20iPad%2014%20mini%206-000000?style=flat-square&logo=apple&logoColor=ffffff)
+![Apple iPad mini 6](https://img.shields.io/badge/Apple%20iPad%20mini%206-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![Xiaomi Mi 2](https://img.shields.io/badge/Xiaomi%20Mi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi 10 Pro](https://img.shields.io/badge/Xiaomi%20Mi%2010%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![SONY Xperia XZ Premium](https://img.shields.io/badge/Xperia%20XZ%20Premium-000000?style=flat-square&logo=sony&logoColor=ffffff)
