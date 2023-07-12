@@ -5,9 +5,8 @@
 ## 👋 Hi there
 💬 a.k.a. 莳昇
 
-- A cat
 - zh-CN / en-US / ~~ja-JP~~
-- Chinese / Senior High School Student
+- Chinese
 - Programmer / Developer / Dreamer
 - Also a *bad* Gamer
 
@@ -33,6 +32,7 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![iOS 16](https://img.shields.io/badge/iOS%2016-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
@@ -40,6 +40,9 @@
 ![Wear OS](https://img.shields.io/badge/Wear%20OS%20-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
 
 ## 📱 Devices in use
+
+![Apple iPhone 14 Pro](https://img.shields.io/badge/Apple%20iPhone%2014%20Pro-000000?style=flat-square&logo=apple&logoColor=ffffff)
+![Apple iPad mini 6](https://img.shields.io/badge/Apple%20iPad%2014%20mini%206-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![Xiaomi Mi 2](https://img.shields.io/badge/Xiaomi%20Mi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi 10 Pro](https://img.shields.io/badge/Xiaomi%20Mi%2010%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![SONY Xperia XZ Premium](https://img.shields.io/badge/Xperia%20XZ%20Premium-000000?style=flat-square&logo=sony&logoColor=ffffff)
