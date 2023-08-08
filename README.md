@@ -30,7 +30,7 @@
 
 ## 💾 Working environment
 ![Windows 11](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Open SUSE]((https://img.shields.io/badge/Open%20SUSE-ffffff?logo=suse&logoColor=73BA25&style=flat-square))
+![Open SUSE](https://img.shields.io/badge/Open%20SUSE-ffffff?logo=suse&logoColor=73BA25&style=flat-square)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![iOS 16](https://img.shields.io/badge/iOS%2016-000000?style=flat-square&logo=apple&logoColor=ffffff)
