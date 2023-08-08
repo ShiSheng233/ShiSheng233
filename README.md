@@ -30,6 +30,7 @@
 
 ## 💾 Working environment
 ![Windows 11](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Open SUSE]([https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square](https://img.shields.io/badge/Open%20SUSE-ffffff?logo=suse&logoColor=73BA25&style=flat-square))
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![iOS 16](https://img.shields.io/badge/iOS%2016-000000?style=flat-square&logo=apple&logoColor=ffffff)
@@ -42,6 +43,7 @@
 ## 📱 Devices in use
 
 ![Apple iPhone 14 Pro](https://img.shields.io/badge/Apple%20iPhone%2014%20Pro-000000?style=flat-square&logo=apple&logoColor=ffffff)
+![Apple iPad Pro](https://img.shields.io/badge/Apple%20iPad%20Pro-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![Apple iPad mini 6](https://img.shields.io/badge/Apple%20iPad%20mini%206-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![Xiaomi Mi 2](https://img.shields.io/badge/Xiaomi%20Mi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi 10 Pro](https://img.shields.io/badge/Xiaomi%20Mi%2010%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
