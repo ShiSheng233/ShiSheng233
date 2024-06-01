@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ShiSheng233&show_icons=true&count_private=true&icon_color=FB7299&title_color=FB7299" />
-  
 # ShiSheng
 
 ## 👋 Hi there
@@ -9,6 +7,8 @@
 - Chinese
 - Programmer / Photographer / Developer / Dreamer
 - Also a *bad* Gamer
+
+E-mail me at <ohayou@shisheng.icu>
 
 ## 💻 Programming Languages
 
